@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/Coding Technology/Reactjs]
-title: 6 Handling Form
+title: 6 - Handling Form
 created: '2020-06-23T01:18:02.077Z'
-modified: '2020-06-23T01:47:07.099Z'
+modified: '2020-07-27T13:09:22.542Z'
 ---
 
-# 6 Handling Form
+# 6 - Handling Form
 - form sử dụng state để lưu trạng thái => còn gọi là controll component
 - để sử dụng các giá trị từ form và cập nhật trường thông tin ta sử dụng state của component
 - Dùng thư viện nếu thấy thích https://github.com/jaredpalmer/formik

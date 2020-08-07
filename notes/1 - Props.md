@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/Coding Technology/Reactjs]
-title: 1 Props
+title: 1 - Props
 created: '2020-06-22T13:25:49.237Z'
-modified: '2020-06-22T23:38:13.208Z'
+modified: '2020-07-27T13:09:49.040Z'
 ---
 
-# 1 Props
+# 1 - Props
 - Không bao giờ thay đổi props (giống pure function)
 <details close>
 <summary>Using Props</summary>

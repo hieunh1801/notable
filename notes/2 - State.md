@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/Coding Technology/Reactjs]
-title: 2 State
+title: 2 - State
 created: '2020-06-22T13:25:55.644Z'
-modified: '2020-06-22T23:38:09.894Z'
+modified: '2020-07-27T13:09:43.754Z'
 ---
 
-# 2 State
+# 2 - State
 - State lưu trữ trạng thái của component
 <details close>
 <summary>Using State</summary>
