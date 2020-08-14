@@ -1,11 +1,12 @@
 ---
-attachments: [Clipboard_2020-08-12-10-48-18.png]
-title: Elastic Search - Query DSL
+attachments: [Clipboard_2020-08-12-10-48-18.png, Clipboard_2020-08-12-11-09-35.png]
+tags: [Elastic Search]
+title: 'Elastic Search - Query DSL 1: Context'
 created: '2020-08-12T02:48:34.256Z'
-modified: '2020-08-12T03:48:19.552Z'
+modified: '2020-08-12T04:24:05.621Z'
 ---
 
-# Elastic Search - Query DSL
+# Elastic Search - Query DSL 1: Context
 `12/08/2020`
 https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
 
@@ -43,5 +44,14 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
 
 
 ### Ví dụ sử dụng query context và filter context
-![](@attachment/Clipboard_2020-08-12-10-48-18.png)
-
+- Bài toán: Tìm document match với các yêu cầu sau:
+  + `title` chứa từ search
+  + `content` chứa từ elastic search
+  + `status` chứa chính xác từ published
+  + `public_date` từ ngày 1/1/20215
+- Phân tích:
+  + Các document phù hợp => sử dụng `query context`
+  + Chứa từ => sử dụng `match` => nằm trong query context
+  + Chứa chính xác => sử dụng `term` => nằm trong filter context
+  + Lớn hơn ngày => sử dụng `gte` => nằm trong filter context
+![](@attachment/Clipboard_2020-08-12-11-09-35.png)

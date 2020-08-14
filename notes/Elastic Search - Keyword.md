@@ -1,7 +1,8 @@
 ---
+tags: [Elastic Search]
 title: Elastic Search - Keyword
 created: '2020-06-29T03:48:29.151Z'
-modified: '2020-06-29T03:52:44.901Z'
+modified: '2020-08-12T04:00:06.584Z'
 ---
 
 # Elastic Search - Keyword

@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks/Coding Technology/Elastic Search]
+tags: [Elastic Search]
 title: Elastic Search Query
 created: '2020-06-23T08:33:14.043Z'
-modified: '2020-06-23T09:01:39.077Z'
+modified: '2020-08-12T04:00:27.489Z'
 ---
 
 # Elastic Search Query

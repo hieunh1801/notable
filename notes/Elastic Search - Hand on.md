@@ -1,7 +1,8 @@
 ---
+tags: [Elastic Search]
 title: Elastic Search - Hand on
 created: '2020-06-29T02:52:05.868Z'
-modified: '2020-06-29T02:55:33.260Z'
+modified: '2020-08-12T07:42:48.329Z'
 ---
 
 # Elastic Search - Hand on
